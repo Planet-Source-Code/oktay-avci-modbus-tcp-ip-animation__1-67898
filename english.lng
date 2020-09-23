@@ -1,0 +1,86 @@
+Active Process :
+Line
+Rectangle
+Circle
+Label
+Text
+Button
+Active Color
+Selection
+Move
+Delete Object
+Move Object
+Scale Object
+Object Properties
+Run
+Stop
+There are no selection...
+Selection
+Move
+You must connect TCI/IP Server first.
+Connect
+ Connection Closed...
+Index Number Of Object = 
+There are no script writen. Pls write script for use.
+ the active action is 
+Animation Project (*.anp)|*.anp
+There is an error coded, 
+ Pls. check it...
+ Connected
+ can not connect...
+Connect
+DisConnect
+Can not recieveing TCP/IP connection...
+ Connection Broken...
+Are you sure to want to delete selected object(s)?
+ModSim Animation v1.50
+Set Value
+Digital Output Value
+OK
+Cancel
+Apply
+Load
+Animation Code Editor
+Object Type :
+Index :
+Left :
+Top :
+Width :
+Height :
+Border Color :
+Main Color :
+Text :
+Border Style :
+&File
+New
+&Open
+&Save
+Save As
+Save As Bitmap
+Exit
+&Edit
+Cut
+Copy
+Paste
+Code Editor
+Settings
+Program Settings
+&Help
+About
+Modbus TCP/IP Client with Animation
+Version : 1.50
+Main Color
+Con. Speed (ms)
+From PLC : (00001)
+To PLC : (00033)
+From PLC : (40001)
+To PLC : (40017)
+Connection Settings
+IP Number :
+Port :
+Time - Out (scnd)
+Bitmap Image File (*.bmp)|*.bmp
+A simple program to connect and animation PLC program on ModBus+ TCP/IP Connection.......
+Click form for close about window.
+Animation Project (*.anp)|*.anp
+Languages :
