@@ -1,0 +1,86 @@
+Aktif Ýþlem :
+Çizgi
+Dikdörtgen
+Daire
+Etiket
+Metin
+Buton
+Aktif Renk
+Seçim
+Taþýma
+Obje Sil
+Obje Taþý
+Obje Boyutlandýr
+Obje Özellikleri
+Baþla
+Dur
+Hiç Seçim Yapýlmadý...
+Seçim
+Taþýma
+Önce TCI/IP Server'a Baðlanmalýsýnýz...
+Baðlan
+ Baðlantýsý Koptu...
+Objenin Ýndex Numarasý = 
+Hiç Kod Yazýlmamýþ. Lütfen Kullanmak için Kod Yazýn.
+ Aktif Olay 
+Animasyon Projesi (*.anp)|*.anp
+Bira Hata Var HATA KODU, 
+ Lütfen Kontrol Edin...
+ Baðlandý
+ Baðlanýlamýyor...
+Baðlan
+Ayrýl
+TCP/IP Baðlantýsýndan Bilgi Alýnamýyor...
+ Baðlantý Koptu...
+Seçili Obje(ler)'i silmek istediðinizden emin misiniz?
+ModSim Animation v1.50
+Deðer Gir
+Digital Output Deðeri
+Tamam
+Ýptal
+Uygula
+Yükle
+Animasyon Kod Düzenleyicisi
+Obje Tipi :
+Index :
+Sol :
+Üst :
+Geniþlik :
+Yükseklik :
+Kenar Rengi :
+Ana Renk :
+Metin :
+Kenar Stili :
+&Dosya
+Yeni
+&Aç..
+&Kaydet
+Farklý Kaydet
+Bitmap Olarak Kaydet
+Çýkýþ
+&Düzen
+Kes
+Kopyala
+Yapýþtýr
+Kod Düzenleyici
+Ayarlar
+Program Ayarlarý
+&Yardým
+Hakkýnda
+Modbus TCP/IP Client with Animation
+Version : 1.50
+Ana Renk
+Bað. Hýzý (ms)
+PLC den : (00001)
+PLC ye : (00033)
+PLC den : (40001)
+PLC ye: (40017)
+Baðlantý Ayarlarý
+IP Numarasý :
+Port :
+Zaman Aþýmý (scnd)
+Bitmap Resim Dosyasý (*.bmp)|*.bmp
+ModBus+ TCP/IP li PLC Yapýsýnda basit bir baðlantý ve animasyon programý.
+Hakkýnda penceresini kapatmak için form'u týklayýn.
+Animasyon Projesi (*.anp)|*.anp
+Diller :
